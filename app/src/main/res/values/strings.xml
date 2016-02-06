@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">FirstActivity</string>
+    <string name="hometask_string">This is a home work of Codaline courses</string>
+    <string name="text_field_1"></string>
+    <string name="btn_next">To next Activity</string>
+    <string name="btn_back">Go Back</string>
+    <string name="message_1">Your message from first Activity:</string>
+    <string name="inputText_1">Enter some text</string>
+</resources>
